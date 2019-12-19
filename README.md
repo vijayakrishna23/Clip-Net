@@ -1,1 +1,1 @@
-# Clip-Net
+# ClipNet

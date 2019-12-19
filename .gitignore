@@ -1,0 +1,10 @@
+/Venv/
+/Data/
+/Model/
+/Paired/
+/Embeddings/
+/assets/
+*.csv
+*.pyc
+*.DS_Store
+.env
